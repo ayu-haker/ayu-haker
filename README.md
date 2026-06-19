@@ -47,7 +47,7 @@ print(me.philosophy())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayu-haker&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&include_all_commits=true&count_private=true" width="65%"/>
+<img src="https://github-readme-stats-master-two.vercel.app/api?username=ayu-haker&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&include_all_commits=true&count_private=true" width="65%"/>
 
 </div>
 
@@ -89,7 +89,7 @@ print(me.philosophy())
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayu-haker&theme=react&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-haker&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff9c&text_color=c9d1d9&langs_count=10" width="38%"/>
+<img src="https://github-readme-stats-master-two.vercel.app/api/top-langs/?username=ayu-haker&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff9c&text_color=c9d1d9&langs_count=10" width="38%"/>
 
 <br>
 
