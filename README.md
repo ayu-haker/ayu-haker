@@ -24,8 +24,6 @@
 <br>
 ## 👋 welcome_visitor
 
-[#-welcome_visitor](#-welcome_visitor)
-
 ![Welcome Visitor](https://raw.githubusercontent.com/ayu-haker/ayu-haker/main/welcome-banner.svg)
 
 ## ⚡ about_me
